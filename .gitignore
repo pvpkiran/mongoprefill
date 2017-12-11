@@ -1,0 +1,10 @@
+/*
+!/Jenkinsfile
+!/codequality
+!/src
+!/pom.xml
+!/.gitattributes
+!/.gitignore
+
+# Exclude all IDEA config files (multimodule case)
+/**/*.iml
